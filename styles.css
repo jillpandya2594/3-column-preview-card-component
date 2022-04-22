@@ -106,3 +106,13 @@ background-color: hsl(179, 100%, 13%);
 color:#fff;
 border:1px solid white;
 }
+@media (max-width: 375px)
+{
+	main{
+		display: block;
+		width:24rem;
+        height:20rem;
+        margin-top:5em;      
+	}
+
+}
