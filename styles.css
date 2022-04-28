@@ -16,7 +16,7 @@ Very dark cyan: hsl(179, 100%, 13%)*/
 
 }
 main{
-    width:52rem;
+    width:48rem;
     height:30rem;
 	display: flex;
 	margin:auto;
