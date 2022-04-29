@@ -31,7 +31,7 @@ main{
 	color:#fff;
 	font-family: 'Big Shoulders Display',cursive;
 		padding: 1.5em;
-	border-radius: 25px 0 0 25px;
+	border-radius: 20px 0 0 20px;
 }
 .two{
 background-color:hsl(184, 100%, 22%);
@@ -44,7 +44,7 @@ background-color:hsl(179, 100%, 13%);
 	color:#fff;
 	font-family: 'Big Shoulders Display',cursive;
 		padding: 1.5em;
-	border-radius: 0 25px  25px 0;
+	border-radius: 0 20px  20px 0;
 }
 
 
