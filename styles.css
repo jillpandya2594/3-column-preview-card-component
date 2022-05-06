@@ -16,7 +16,7 @@ Very dark cyan: hsl(179, 100%, 13%)*/
 
 }
 main{
-    width:40rem;
+    width:44rem;
     height:28rem;
 	display: flex;
 	margin:auto;
@@ -112,9 +112,21 @@ border:1px solid white;
 {
 	main{
 		display: block;
-		width:24rem;
-        height:20rem;
-        margin-top:5em;      
+		width:18rem;
+               height:20rem;
+               margin-top:5em;      
 	}
+	.one{
+	border-radius: 20px     20px 0 0 ;
+
+}
+.two{
+	border-radius:0;
+
+}
+.three{
+	border-radius:  0 0 20px  20px ;
+
+}
 
 }
